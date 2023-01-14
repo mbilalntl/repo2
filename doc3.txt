@@ -1,1 +1,2 @@
 This is the doc3 file. Newly added file in the GIT repo. Lets see how it works.
+This comment is added via GitHub
